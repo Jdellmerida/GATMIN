@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\load.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\load.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\crazy\\onedrive\\desktop\\foods-main\\foodmanagement\\load.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\load.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\crazy\\onedrive\\desktop\\foods-main\\foodmanagement\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\crazy\\onedrive\\desktop\\foods-main\\foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\crazy\\onedrive\\desktop\\foods-main\\foodmanagement\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FoodManagement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\customer.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\customer.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\registrationvb.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\registrationvb.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\managecus.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\managecus.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\editinfo.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\editinfo.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\dashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\my project\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\my project\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\foodmanagement\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\crazy\\onedrive\\desktop\\foods-main\\foodmanagement\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Load.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Load.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Load.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Load.vb",
+              "RelativeToolTip": "FoodManagement\\Load.vb",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA0wDYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:56:43.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Load.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Load.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Load.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Load.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Load.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:54:17.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DASHBOARD.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DASHBOARD.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\DASHBOARD.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DASHBOARD.vb",
+              "RelativeToolTip": "FoodManagement\\DASHBOARD.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T04:03:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REPORT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\REPORT.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\REPORT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\REPORT.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\REPORT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:48:22.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PAYMENT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\PAYMENT.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\PAYMENT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\PAYMENT.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\PAYMENT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T04:23:02.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PAYMENT.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\PAYMENT.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\PAYMENT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\PAYMENT.vb",
+              "RelativeToolTip": "FoodManagement\\PAYMENT.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T06:24:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Report.rdlc",
+              "RelativeDocumentMoniker": "FoodManagement\\Report.rdlc",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Report.rdlc [Design]",
+              "RelativeToolTip": "FoodManagement\\Report.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-07T13:36:31.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "FoodManagement\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DataSet1.xsd",
+              "RelativeToolTip": "FoodManagement\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-07T13:37:19.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "REPORT.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\REPORT.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\REPORT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\REPORT.vb",
+              "RelativeToolTip": "FoodManagement\\REPORT.vb",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T13:35:10.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EDITINFO.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\EDITINFO.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\EDITINFO.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\EDITINFO.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\EDITINFO.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T03:37:38.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Managecus.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Managecus.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Managecus.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Managecus.vb",
+              "RelativeToolTip": "FoodManagement\\Managecus.vb",
+              "ViewState": "AQIAADIAAAAAAAAAAADgv0kAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T03:36:56.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DASHBOARD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DASHBOARD.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\DASHBOARD.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DASHBOARD.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\DASHBOARD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T03:35:09.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Customer.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Customer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Customer.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Customer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T03:35:07.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registrationvb.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Registrationvb.Designer.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Registrationvb.Designer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Registrationvb.Designer.vb",
+              "RelativeToolTip": "FoodManagement\\Registrationvb.Designer.vb",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAIwJIBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:42:58.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Managecus.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Managecus.Designer.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Managecus.Designer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Managecus.Designer.vb",
+              "RelativeToolTip": "FoodManagement\\Managecus.Designer.vb",
+              "ViewState": "AQIAAMoBAAAAAAAAAAAIwJkCAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:42:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EDITINFO.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\EDITINFO.Designer.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\EDITINFO.Designer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\EDITINFO.Designer.vb",
+              "RelativeToolTip": "FoodManagement\\EDITINFO.Designer.vb",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAIwJkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:42:44.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DASHBOARD.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DASHBOARD.Designer.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\DASHBOARD.Designer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\DASHBOARD.Designer.vb",
+              "RelativeToolTip": "FoodManagement\\DASHBOARD.Designer.vb",
+              "ViewState": "AQIAALUAAAAAAAAAAAAIwCYBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:42:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Customer.Designer.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Customer.Designer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Customer.Designer.vb",
+              "RelativeToolTip": "FoodManagement\\Customer.Designer.vb",
+              "ViewState": "AQIAAHABAAAAAAAAAAAIwJIBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:42:28.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodManagement",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\FoodManagement.vbproj",
+              "RelativeDocumentMoniker": "FoodManagement\\FoodManagement.vbproj",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\FoodManagement.vbproj",
+              "RelativeToolTip": "FoodManagement\\FoodManagement.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T02:41:14.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\My Project\\Resources.resx",
+              "RelativeDocumentMoniker": "FoodManagement\\My Project\\Resources.resx",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\My Project\\Resources.resx",
+              "RelativeToolTip": "FoodManagement\\My Project\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwHsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-06T02:40:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Connection.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Connection.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Connection.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Connection.vb",
+              "RelativeToolTip": "FoodManagement\\Connection.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:35:30.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registrationvb.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Registrationvb.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Registrationvb.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Registrationvb.vb",
+              "RelativeToolTip": "FoodManagement\\Registrationvb.vb",
+              "ViewState": "AQIAADcAAAAAAAAAAADgvy4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:35:21.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registrationvb.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Registrationvb.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Registrationvb.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Registrationvb.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Registrationvb.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:34:32.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Managecus.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Managecus.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Managecus.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Managecus.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Managecus.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:33:47.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Form1.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Form1.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Foods-main\\FoodManagement\\Form1.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T02:33:45.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

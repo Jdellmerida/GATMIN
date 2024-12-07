@@ -1,0 +1,168 @@
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\FoodManagement.exe.config
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\FoodManagement.exe
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\FoodManagement.pdb
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\FoodManagement.xml
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.vbproj.AssemblyReference.cache
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Form1.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Resources.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.vbproj.GenerateResource.cache
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.vbproj.CoreCompileInputs.cache
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.exe
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.xml
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.pdb
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.DASHBOARD.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Managecus.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Transac.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.EDITINFO.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Registrationvb.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.RFID.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.REPORT.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\EnvDTE.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\stdole.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodMana.5C1482F8.Up2Date
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Customer.resources
+C:\Users\Jugeric Gatmin\Desktop\FoodManagement\FoodManagement\obj\Debug\FoodManagement.Category.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.vbproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Category.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Customer.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.REPORT.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Transac.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.DASHBOARD.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.EDITINFO.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Form1.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Managecus.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Registrationvb.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.RFID.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.vbproj.GenerateResource.cache
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.exe
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.xml
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.pdb
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.Resources.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.vbproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\FoodManagement.exe.config
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\FoodManagement.exe
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\FoodManagement.pdb
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\FoodManagement.xml
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\EnvDTE.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\stdole.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodMana.5C1482F8.Up2Date
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.cusLoad.resources
+C:\Users\crazy\OneDrive\Desktop\Foods-main\FoodManagement\obj\Debug\FoodManagement.PAYMENT.resources
